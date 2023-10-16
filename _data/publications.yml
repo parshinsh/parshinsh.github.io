@@ -26,7 +26,7 @@ main:
     pdf: https://arxiv.org/pdf/2301.13816.pdf 
     bibtex:  ./assets/img/ppocoder-bibtex.txt
     code: https://github.com/reddy-lab-code-research/PPOCoder
-    image: ./assets/img/ppocoder2.png
+    image: ./assets/img/ppocoder.png
 
 
   - title: "Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting"
@@ -36,7 +36,7 @@ main:
     pdf: https://arxiv.org/pdf/2305.18687.pdf 
     bibtex:  ./assets/img/gramode-bibtex.txt
     code: https://github.com/zbliu98/GRAM-ODE
-    image: ./assets/img/gramode.png
+    image: ./assets/img/gramode2.png
 
 
   - title: "Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet"
@@ -53,5 +53,14 @@ main:
     conference_short: ICPS
     conference: IEEE 5th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9816900
-    bibtex:  ./assets/img/df-bibtex.txt
-    image: ./assets/img/pried.png
+    bibtex:  ./assets/img/cbrd-bibtex.txt
+    image: ./assets/img/cbrd.png
+
+
+  - title: "Deep Neural Network Pipelines for Multivariate Time Series Classification in Smart Manufacturing"
+    authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Xiaoyu Chen, Ran Jin, Xinwei Deng, Chuck Zhang
+    conference_short: ICPS
+    conference: IEEE 4th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9816900
+    bibtex:  ./assets/img/tspip-bibtex.txt
+    image: ./assets/img/tspip.png

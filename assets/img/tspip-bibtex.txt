@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9468245,
+  author={Shojaee, Parshin and Zeng, Yingyan and Chen, Xiaoyu and Jin, Ran and Deng, Xinwei and Zhang, Chuck},
+  booktitle={2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)}, 
+  title={Deep Neural Network Pipelines for Multivariate Time Series Classification in Smart Manufacturing}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={98-103},
+  doi={10.1109/ICPS49255.2021.9468245}}
