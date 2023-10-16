@@ -37,3 +37,21 @@ main:
     bibtex:  ./assets/img/gramode-bibtex.txt
     code: https://github.com/zbliu98/GRAM-ODE
     image: ./assets/img/gramode.png
+
+
+  - title: "Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet"
+    authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Muntasir Wahed, Avi Seth, Ran Jin, Ismini Lourentzou
+    conference_short: Big Data
+    conference: IEEE International Conference on Big Data <strong>(Big Data)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10020861
+    bibtex:  ./assets/img/pried-bibtex.txt
+    image: ./assets/img/pried.png
+
+
+  - title: "Contextual bandit guided data farming for deep neural networks in manufacturing industrial internet"
+    authors: Yingyan Zeng, <strong>Parshin Shojaee</strong>, Syed Hasib Akhter Faruqui, Adel Alaeddini, Ran Jin
+    conference_short: ICPS
+    conference: IEEE 5th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9816900
+    bibtex:  ./assets/img/df-bibtex.txt
+    image: ./assets/img/pried.png

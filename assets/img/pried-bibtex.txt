@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10020861,
+  author={Shojaee, Parshin and Zeng, Yingyan and Wahed, Muntasir and Seth, Avi and Jin, Ran and Lourentzou, Ismini},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)}, 
+  title={Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1505-1514},
+  doi={10.1109/BigData55660.2022.10020861}
+  }

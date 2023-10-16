@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9816900,
+  author={Zeng, Yingyan and Shojaee, Parshin and Akhter Faruqui, Syed Hasib and Alaeddini, Adel and Jin, Ran},
+  booktitle={2022 IEEE 5th International Conference on Industrial Cyber-Physical Systems (ICPS)}, 
+  title={Contextual Bandit Guided Data Farming for Deep Neural Networks in Manufacturing Industrial Internet}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ICPS51978.2022.9816900}}
