@@ -1,19 +1,26 @@
 main:
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
-    authors: Kazem Meidani*, <b>Parshin Shojaee*</b>, Chandan K. Reddy, Amir Barati Farimani (*CEqual Contribution)
+    authors: Kazem Meidani*, <strong>Parshin Shojaee*</strong>, Chandan K. Reddy, Amir Barati Farimani (*Equal Contribution)
     conference_short: Preprint
     conference: arXiv preprint arXiv:2310.02227
     pdf: https://arxiv.org/pdf/2310.02227.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: ./_data/snip-bibtex.txt
-    image: ./_data/snip_square.png
+    bibtex: ./assets/img/snip-bibtex.txt
+    image: ./assets/img/snip_square.png
     notes: Under Submission
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: "Transformer-based Planning for Symbolic Regression"
+    authors: <strong>Parshin Shojaee</strong>*, Kazem Meidani*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
+    conference_short: NeurIPS
+    conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2303.06833.pdf 
+    image: ./assets/img/tpsr.png
+
+
+  - title: "Transformer-based Planning for Symbolic Regression"
+    authors: <b>Parshin Shojaee</b>*, Kazem Meidani*, Amir Barati Farimani, Chandan K. Reddy (*CEqual Contribution)
+    conference_short: NeurIPS
+    conference: Thirty-seventh Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2023.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
