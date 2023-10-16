@@ -14,7 +14,7 @@ main:
     conference_short: NeurIPS
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
-    bibtex: ./assets/img/snip-bibtex.txt
+    bibtex: ./assets/img/tpsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/TPSR
     image: ./assets/img/tpsr.png
 
