@@ -11,7 +11,7 @@ My primary research interests revolve around AI for Science and engineering. Mos
 
 - **Deep Learning for Symbolic Mathematics**, with a focus on uncovering mathematical expressions behind data (Neural Symbolic Regression)
 - **Deep Learning for Code Generation**, with a focus on code translation and program synthesis
-- **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods
+<!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
 <!-- ## News
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.

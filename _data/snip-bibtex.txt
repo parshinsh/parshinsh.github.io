@@ -1,0 +1,6 @@
+@article{meidani2023snip,
+  title={SNIP: BRIDGING MATHEMATICAL SYMBOLIC AND NUMERIC REALMS WITH UNIFIED PRE-TRAINING},
+  author={Meidani, Kazem and Shojaee, Parshin and Reddy, Chandan K and Farimani, Amir Barati},
+  journal={arXiv preprint arXiv:2310.02227},
+  year={2023}
+}
