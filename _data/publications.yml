@@ -61,6 +61,6 @@ main:
     authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Xiaoyu Chen, Ran Jin, Xinwei Deng, Chuck Zhang
     conference_short: ICPS
     conference: IEEE 4th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS)</strong>, 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9816900
+    pdf: https://ieeexplore.ieee.org/abstract/document/9468245
     bibtex:  ./assets/img/tspip-bibtex.txt
     image: ./assets/img/tspip.png
