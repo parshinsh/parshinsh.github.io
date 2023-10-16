@@ -26,7 +26,7 @@ main:
     pdf: https://arxiv.org/pdf/2301.13816.pdf 
     bibtex:  ./assets/img/ppocoder-bibtex.txt
     code: https://github.com/reddy-lab-code-research/PPOCoder
-    image: ./assets/img/ppocoder.gif
+    image: ./assets/img/ppocoder3.jpg
 
 
   - title: "Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting"
