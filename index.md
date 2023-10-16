@@ -7,10 +7,11 @@ layout: homepage
 Hi! I’m a second-year PhD student in the Computer Science department at Virginia Tech, advised by [Prof. Chandan Reddy](https://people.cs.vt.edu/reddy/). Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as Data Science Intern. I completed my MS in Operationrs Research at Virginia Tech, and obtained my Bachelors in Industrial Engineering from [Sharif University of Technology](https://en.sharif.edu/).
 
 ## Research Interests
-My primary research interests revolve around AI for Science and engineering. Most of my works fall into one these categories:
+My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories:
 
 - **Deep Learning for Symbolic Mathematics**, with a focus on uncovering mathematical expressions behind data (Neural Symbolic Regression)
-- **Deep Learning for Code Generation**, with a focus on code translation and program synthesis
+- **Deep Learning for Code**, with a focus on code translation and program synthesis
+- **Deep Learning for Time Series**, with a focus on sensor data fusion and forecasting
 <!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
 <!-- ## News
