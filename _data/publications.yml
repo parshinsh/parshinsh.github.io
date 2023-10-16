@@ -36,7 +36,7 @@ main:
     pdf: https://arxiv.org/pdf/2305.18687.pdf 
     bibtex:  ./assets/img/gramode-bibtex.txt
     code: https://github.com/zbliu98/GRAM-ODE
-    image: ./assets/img/gramode2.png
+    image: ./assets/img/gramode3.png
 
 
   - title: "Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet"
