@@ -1,0 +1,8 @@
+@article{shojaee2023ppocoder,
+title={Execution-based Code Generation using Deep Reinforcement Learning},
+author={Parshin Shojaee and Aneesh Jain and Sindhu Tipirneni and Chandan K. Reddy},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=0XBuaxqEcG}
+}

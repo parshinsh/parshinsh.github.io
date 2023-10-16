@@ -14,16 +14,16 @@ main:
     conference_short: NeurIPS
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
+    bibtex: ./assets/img/snip-bibtex.txt
+    code: https://github.com/deep-symbolic-mathematics/TPSR
     image: ./assets/img/tpsr.png
 
 
-  - title: "Transformer-based Planning for Symbolic Regression"
-    authors: <b>Parshin Shojaee</b>*, Kazem Meidani*, Amir Barati Farimani, Chandan K. Reddy (*CEqual Contribution)
-    conference_short: NeurIPS
-    conference: Thirty-seventh Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2023.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Execution-based Code Generating using Deep Reinforcement Learning"
+    authors: <strong>Parshin Shojaee</strong>, Aneesh Jain, Sindhu Tipirneni, Chandan K. Reddy
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2301.13816.pdf 
+    bibtex:  ./assets/img/ppocoder-bibtex.txt
+    code: https://github.com/reddy-lab-code-research/PPOCoder
+    image: ./assets/img/ppocoder.png

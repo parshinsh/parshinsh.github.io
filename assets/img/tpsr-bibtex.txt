@@ -1,0 +1,6 @@
+@article{tpsr2023,
+  title={Transformer-based Planning for Symbolic Regression},
+  author={Shojaee, Parshin and Meidani, Kazem and Farimani, Amir Barati and Reddy, Chandan K},
+  journal={arXiv preprint arXiv:2303.06833},
+  year={2023}
+}

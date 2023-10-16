@@ -1,4 +1,4 @@
-@article{meidani2023snip,
+@article{snip2023,
   title={SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-traiing},
   author={Meidani, Kazem and Shojaee, Parshin and Reddy, Chandan K and Farimani, Amir Barati},
   journal={arXiv preprint arXiv:2310.02227},
