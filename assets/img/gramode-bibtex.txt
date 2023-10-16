@@ -1,0 +1,8 @@
+@article{liu2023graphbased,
+title={Graph-based Multi-{ODE} Neural Networks for Spatio-Temporal Traffic Forecasting},
+author={Zibo Liu and Parshin Shojaee and Chandan K. Reddy},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=Oq5XKRVYpQ},
+}

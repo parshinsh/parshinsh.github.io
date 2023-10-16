@@ -27,3 +27,13 @@ main:
     bibtex:  ./assets/img/ppocoder-bibtex.txt
     code: https://github.com/reddy-lab-code-research/PPOCoder
     image: ./assets/img/ppocoder.png
+
+
+  - title: "Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting"
+    authors: Zibo Liu, <strong>Parshin Shojaee</strong>, Chandan K. Reddy
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2305.18687.pdf 
+    bibtex:  ./assets/img/gramode-bibtex.txt
+    code: https://github.com/zbliu98/GRAM-ODE
+    image: ./assets/img/gramode.png
