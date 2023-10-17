@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-Hi! I’m a second-year PhD student in the Computer Science department at Virginia Tech, advised by [Prof. Chandan Reddy](https://people.cs.vt.edu/reddy/). Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as Data Science Intern. I completed my MS in Operationrs Research at Virginia Tech, and obtained my Bachelors in Industrial Engineering from [Sharif University of Technology](https://en.sharif.edu/).
+Hi! I’m a second-year PhD student in the Computer Science department at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as Data Science Intern. I completed my M.Sc. in Operations Research at Virginia Tech, and obtained my B.Sc. in Industrial Engineering from [Sharif University of Technology](https://en.sharif.edu/).
 
 ## Research Interests
 My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories:
@@ -14,11 +14,10 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 - **Deep Learning for Time Series**, with a focus on sensor data fusion and forecasting
 <!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
-<!-- ## News
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+## News
+- **[Sep. 2023]** One paper accepted to NeurIPS 2023.
+- **[Jun. 2020]** Two papers accepted to TMLR 2023.
+<!-- - **[Apr. 2019]** One paper was accepted to TMLR 2023. -->
 
 {% include_relative _includes/publications.md %}
 
