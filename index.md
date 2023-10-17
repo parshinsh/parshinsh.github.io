@@ -16,7 +16,7 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 
 ## News
 - **[Sep. 2023]** One paper accepted to NeurIPS 2023.
-- **[Jun. 2020]** Two papers accepted to TMLR 2023.
+- **[Jun. 2023]** Two papers accepted to TMLR 2023.
 <!-- - **[Apr. 2019]** One paper was accepted to TMLR 2023. -->
 
 {% include_relative _includes/publications.md %}
