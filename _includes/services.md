@@ -11,8 +11,8 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>ACM 
+  <li><a href="https://dl.acm.org/journal/tist"><autocolor>ACM 
 Transactions on Intelligent Systems and Technology (TIST)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>ACM 
+  <li><a href="https://dl.acm.org/journal/tkdd"><autocolor>ACM 
 Transactions on Knowledge Discovery from Data (TKDD)</autocolor></a></li>
 </ul>
