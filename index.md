@@ -17,9 +17,9 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 
 ## News
 - **[Dec. 2023]** I will be at NeurIPS 2023, presenting my latest paper, “[Transformer-based Planning for Symbolic Regression](https://arxiv.org/abs/2303.06833)”.
-- **[Sep. 2023]** Our paper on transformer-based planning for symbolic regression is accepted to [NeurIPS 2023](https://nips.cc/)! 🎉
+- **[Sep. 2023]** Our paper on automatic equation disocvery is accepted to [NeurIPS 2023](https://nips.cc/)! 🎉
 - **[Jul. 2023]** Our paper on code generation with deep reinforcement learning has been accepted in [TMLR](https://jmlr.org/tmlr/)! 
-- **[Dec. 2022]** Our paper on graph ODE models for traffic forecasting has been accepted in [TMLR](https://jmlr.org/tmlr/)! 
+- **[Dec. 2022]** Our paper on forecasting with graph ODE models has been accepted in [TMLR](https://jmlr.org/tmlr/)! 
 - **[May. 2022]** I’m thrilled to start my internship at [Gilead Sciences](https://www.gilead.com/) in this upcoming summer 2022!
 <!-- - **[Jan. 2021]**  I started my PhD at [Virginia Tech](https://cs.vt.edu/). -->
 <!-- - **[Apr. 2019]** One paper was accepted to TMLR 2023. -->
