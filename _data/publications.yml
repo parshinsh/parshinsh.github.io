@@ -28,6 +28,7 @@ main:
     pdf: https://arxiv.org/pdf/2301.13816.pdf 
     bibtex:  ./assets/img/ppocoder-bibtex.txt
     code: https://github.com/reddy-lab-code-research/PPOCoder
+    video: https://tmlr.infinite-conf.org/paper_pages/0XBuaxqEcG.html
     image: ./assets/img/ppocoder3.jpg
 
 
