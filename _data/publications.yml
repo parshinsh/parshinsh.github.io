@@ -16,7 +16,9 @@ main:
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
     bibtex: ./assets/img/tpsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/TPSR
+    video: https://recorder-v3.slideslive.com/?share=85687&s=2eae8d5c-2f2b-40cf-9d7f-7b56a7a03828
     image: ./assets/img/tpsr2.gif
+    notes: Poster
 
 
   - title: "Execution-based Code Generation using Deep Reinforcement Learning"
