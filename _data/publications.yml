@@ -39,6 +39,7 @@ main:
     pdf: https://arxiv.org/pdf/2305.18687.pdf 
     bibtex:  ./assets/img/gramode-bibtex.txt
     code: https://github.com/zbliu98/GRAM-ODE
+    video: https://tmlr.infinite-conf.org/paper_pages/Oq5XKRVYpQ.html
     image: ./assets/img/gramode3.png
 
 
