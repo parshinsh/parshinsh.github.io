@@ -9,7 +9,6 @@ Hi! I’m a second-year PhD student in the Computer Science department at Virgin
 ## Research Interests
 My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories:
 <!-- Most of my works focus on extending Reinforcement Learning and Transformer models to non-text domains, falling into one of these categories: -->
-
 - **Deep Learning for Symbolic Mathematics**, with a focus on uncovering mathematical expressions behind data (Neural Symbolic Regression)
 - **Deep Learning for Code**, with a focus on program synthesis and code translation
 - **Deep Learning for Time Series**, with a focus on sensor data fusion and forecasting
