@@ -8,7 +8,8 @@ main:
     bibtex: ./assets/img/snip-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/Multimodal-Math-Pretraining
     image: ./assets/img/snip_square.png
-    notes: Spotlight Presentation (top 5%)
+    notes: Spotlight (top 5%)
+
 
   - title: "Transformer-based Planning for Symbolic Regression"
     authors: <strong>Parshin Shojaee</strong>*, Kazem Meidani*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
