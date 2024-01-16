@@ -2,12 +2,13 @@ main:
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
     authors: Kazem Meidani*, <strong>Parshin Shojaee*</strong>, Chandan K. Reddy, Amir Barati Farimani (*Equal Contribution)
-    conference_short: Preprint
+    conference_short: ICLR
     conference: arXiv preprint arXiv:2310.02227
     pdf: https://arxiv.org/pdf/2310.02227.pdf
     bibtex: ./assets/img/snip-bibtex.txt
+    code: https://github.com/deep-symbolic-mathematics/Multimodal-Math-Pretraining
     image: ./assets/img/snip_square.png
-    notes: Under Submission
+    notes: Spotlight Presentation (top 5%)
 
   - title: "Transformer-based Planning for Symbolic Regression"
     authors: <strong>Parshin Shojaee</strong>*, Kazem Meidani*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
