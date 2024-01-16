@@ -3,7 +3,7 @@ main:
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
     authors: Kazem Meidani*, <strong>Parshin Shojaee*</strong>, Chandan K. Reddy, Amir Barati Farimani (*Equal Contribution)
     conference_short: ICLR
-    conference: arXiv preprint arXiv:2310.02227
+    conference: Twelfth International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.02227.pdf
     bibtex: ./assets/img/snip-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/Multimodal-Math-Pretraining
