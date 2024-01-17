@@ -15,9 +15,9 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 <!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
 ## News
-- **[Jan. 2024]** Our paper on multi-modal learning for math is accepted to [ICLR 2024](https://nips.cc/) as **Spotlight**! 🎉
+- **[Jan. 2024]** Our paper on multi-modal learning for math is accepted to [ICLR 2024](https://nips.cc/) as **Spotlight**!
 - **[Dec. 2023]** I will be at NeurIPS 2023, presenting our latest paper, “[Transformer-based Planning for Symbolic Regression](https://arxiv.org/abs/2303.06833)”.
-- **[Sep. 2023]** Our paper on automatic equation disocvery is accepted to [NeurIPS 2023](https://nips.cc/)! 🎉
+- **[Sep. 2023]** Our paper on automatic equation disocvery is accepted to [NeurIPS 2023](https://nips.cc/)!
 - **[Jul. 2023]** Our paper on code generation with deep RL is accepted to [TMLR](https://jmlr.org/tmlr/)! 
 - **[Dec. 2022]** Our paper on forecasting with graph ODEs is accepted to [TMLR](https://jmlr.org/tmlr/)! 
 <!-- - **[May. 2022]** I’m thrilled to start my internship at [Gilead Sciences](https://www.gilead.com/) in this upcoming summer 2022! -->
