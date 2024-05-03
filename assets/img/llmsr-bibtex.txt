@@ -1,0 +1,6 @@
+@article{shojaee2024llm,
+  title={LLM-SR: Scientific Equation Discovery via Programming with Large Language Models},
+  author={Shojaee, Parshin and Meidani, Kazem and Gupta, Shashank and Farimani, Amir Barati and Reddy, Chandan K},
+  journal={arXiv preprint arXiv:2404.18400},
+  year={2024}
+}

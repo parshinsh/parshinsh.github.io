@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-Hi! I’m a third-year PhD student in the Computer Science department at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as AI Scientist Intern. I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/).
+Hi! I’m a third-year PhD student in the Computer Science department at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as Data Scientist Intern. I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/).
 
 ## Research Interests
 My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories:
@@ -16,11 +16,13 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 
 
 ## News
-- **[Jan. 2024]** Our paper on multi-modal learning for math is accepted to [ICLR 2024](https://nips.cc/) as **Spotlight**!
-- **[Dec. 2023]** I will be at NeurIPS 2023, presenting our latest paper, “[Transformer-based Planning for Symbolic Regression](https://arxiv.org/abs/2303.06833)”.
-- **[Sep. 2023]** Our paper on automatic equation disocvery is accepted to [NeurIPS 2023](https://nips.cc/)!
-- **[Jul. 2023]** Our paper on code generation with deep RL is accepted to [TMLR](https://jmlr.org/tmlr/)! 
-- **[Dec. 2022]** Our paper on forecasting with graph ODEs is accepted to [TMLR](https://jmlr.org/tmlr/)! 
+- **[May. 2024]** I’m thrilled to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
+- **[Apr. 2024]** <strong style="color: red;">New Preprint!</strong> Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs for scientific equation discovery is released.
+- **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
+- **[Dec. 2023]** I will be at NeurIPS 2023, presenting our paper, “[TPSR: Transformer-based Planning for Symbolic Regression](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html)”. 
+- **[Sep. 2023]** Our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper on equation disocvery with transformers and planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
+- **[Jul. 2023]** Our [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) paper on code generation with deep RL is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
+- **[Dec. 2022]** Our [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) paper on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
 <!-- - **[May. 2022]** I’m thrilled to start my internship at [Gilead Sciences](https://www.gilead.com/) in this upcoming summer 2022! -->
 <!-- - **[Jan. 2021]**  I started my PhD at [Virginia Tech](https://cs.vt.edu/). -->
 <!-- - **[Apr. 2019]** One paper was accepted to TMLR 2023. -->
