@@ -10,7 +10,7 @@ Hi! I’m a third-year PhD student in the Computer Science department at Virgini
 My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories:
 <!-- Most of my works focus on extending Reinforcement Learning and Transformer models to non-text domains, falling into one of these categories: -->
 - **Deep Learning for Symbolic Mathematics**, with a focus on uncovering hidden mathematical laws within data (equation discovery, symbolic regression)
-- **Deep Learning for Code**, with a focus on program synthesis and code translation
+- **Deep Learning for Code**, with a focus on automating program synthesis and contextual code generation
 - **Deep Learning for Time Series**, with a focus on sensor data fusion and forecasting
 <!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
@@ -19,7 +19,7 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 - **[May. 2024]** I’m thrilled to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
 - **[Apr. 2024]** <strong style="color: red;">New Preprint!</strong> Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs for scientific equation discovery is released.
 - **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
-- **[Dec. 2023]** I will be at NeurIPS 2023, presenting our paper, “[TPSR: Transformer-based Planning for Symbolic Regression](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html)”. 
+- **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
 - **[Sep. 2023]** Our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper on equation disocvery with transformers and planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
 - **[Jul. 2023]** Our [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) paper on code generation with deep RL is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
 - **[Dec. 2022]** Our [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) paper on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
