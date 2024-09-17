@@ -16,7 +16,9 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 
 <!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
-If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please don't hesitate to reach out :) I am best reached by email at [parshinshojaee@vt.edu](https://www.adobe.com/home).
+If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please don't hesitate to reach out :) 
+
+I am best reached by email at [parshinshojaee@vt.edu](https://www.adobe.com/home).
 
 
 
