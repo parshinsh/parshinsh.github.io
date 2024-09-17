@@ -4,14 +4,16 @@ layout: homepage
 
 ## Biography
 
-Hi! I’m a third-year PhD student in the Computer Science department at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as AI Scientist Intern. I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/).
+Hi! I’m a third-year PhD student in the Computer Science department at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). 
+Prior to starting my PhD, I worked at [Gilead Sciences](https://www.gilead.com/) as AI Scientist Intern. I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/).
 
 ## Research Interests
 My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories:
 <!-- Most of my works focus on extending Reinforcement Learning and Transformer models to non-text domains, falling into one of these categories: -->
-- **Deep Learning for Symbolic Mathematics**, with a focus on uncovering hidden mathematical laws within data (equation discovery, symbolic regression)
-- **Deep Learning for Code**, with a focus on automating program synthesis and contextual code generation
-- **Deep Learning for Time Series**, with a focus on sensor data fusion and forecasting
+- **AI for Math**, with a focus on uncovering hidden mathematical laws within data (equation discovery, symbolic regression)
+- **AI for Code**, with a focus on automating program synthesis and contextual code generation
+<!-- - **Deep Learning for Time Series**, with a focus on sensor data fusion and forecasting -->
+
 <!-- - **Deep Learning for Time Series Forecasting**, with a focus on exploring GNN and ODE forecasting methods -->
 
 
@@ -34,3 +36,6 @@ My primary research interests revolve around AI for Science and Engineering. Mos
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
+If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please don't hesitate to reach out :)
