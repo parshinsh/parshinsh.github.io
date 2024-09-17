@@ -1,7 +1,7 @@
-## Academic Services
+## Professional Services
 
-- **Conference Reviewier:** <li><a href="https://neurips.cc/"><autocolor>NeurIPS 2024</autocolor></a></li>, [ICML 2024](https://icml.cc/), 
-- **Journal Reviewier:** [TMLR](https://jmlr.org/tmlr/), [Nature npj AI](https://www.nature.com/npjai/), [TIST](https://dl.acm.org/journal/tist), [TKDD](https://dl.acm.org/journal/tkdd) 
+- **Conference Reviewier:** NeurIPS 2024, ICML 2024 
+- **Journal Reviewier:** TMLR, Nature npj AI, ACM TIST, ACM TKDD 
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> :  <li><a href="https://neurips.cc/"><autocolor>NeurIPS 2024</autocolor></a></li> <li><a href="https://icml.cc/"><autocolor>ICML 2024</autocolor></a></li> -->
 
