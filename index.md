@@ -18,7 +18,7 @@ My primary research interests revolve around AI for symbolic generation (code  &
 
 If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) 
 
-I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.edu).
+I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.edu)
 
 
 
@@ -41,4 +41,6 @@ I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.e
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
 
