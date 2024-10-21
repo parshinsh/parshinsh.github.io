@@ -8,7 +8,7 @@ Hi! I’m a third-year PhD student in the Computer Science department at Virgini
 
 ## Research Interests
 <!-- My primary research interests revolve around AI for Science and Engineering. Most of my works fall into one of these categories: -->
-My primary research interests revolve around AI for symbolic generation (code  & math) and its potentials for scientific discovery. Most of my works fall into one of these categories:
+My primary research interests revolve around AI for symbolic generation (code, math & reasoning) and its potentials for scientific discovery. Most of my works fall into one of these categories:
 <!-- Most of my works focus on extending Reinforcement Learning and Transformer models to non-text domains, falling into one of these categories: -->
 - **AI for Math**, with a focus on uncovering hidden mathematical laws within data (equation discovery, symbolic regression)
 - **AI for Code**, with a focus on automating program synthesis, contextual code generation, and neuro-symbolic programming
