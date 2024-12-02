@@ -24,7 +24,7 @@ I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.e
 
 ## News
 - **[May. 2024]** I’m thrilled to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
-- **[Apr. 2024]** <strong style="color: red;">New Preprint!</strong> Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs for scientific equation discovery is released.
+- **[Apr. 2024]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs for scientific equation discovery is released.
 - **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
 - **[Sep. 2023]** Our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper on equation disocvery with transformers and planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!

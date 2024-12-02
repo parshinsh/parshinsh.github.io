@@ -1,7 +1,7 @@
 main:
 
   - title: "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models"
-    authors: <strong>Parshin Shojaee*</strong>, Kazem Meidani*, Shashank Gupta, Chandan K. Reddy, Amir Barati Farimani (*Equal Contribution)
+    authors: <strong>Parshin Shojaee*</strong>, Kazem Meidani*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/pdf/2404.18400.pdf
