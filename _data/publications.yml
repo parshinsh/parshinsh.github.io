@@ -12,7 +12,7 @@ main:
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
     authors: Kazem Meidani*, <strong>Parshin Shojaee*</strong>, Chandan K. Reddy, Amir Barati Farimani (*Equal Contribution)
-    conference_short: ICLR
+    conference_short: ICLR 2024
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.02227.pdf
     bibtex: ./assets/img/snip-bibtex.txt
@@ -23,7 +23,7 @@ main:
 
   - title: "Transformer-based Planning for Symbolic Regression"
     authors: <strong>Parshin Shojaee</strong>*, Kazem Meidani*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
-    conference_short: NeurIPS
+    conference_short: NeurIPS 2023
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
     bibtex: ./assets/img/tpsr-bibtex.txt
@@ -56,7 +56,7 @@ main:
 
   - title: "Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet"
     authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Muntasir Wahed, Avi Seth, Ran Jin, Ismini Lourentzou
-    conference_short: Big Data
+    conference_short: Big Data 2022
     conference: IEEE International Conference on Big Data <strong>(Big Data)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/10020861
     bibtex:  ./assets/img/pried-bibtex.txt
@@ -65,7 +65,7 @@ main:
 
   - title: "Contextual Bandit Guided Data Farming for Deep Neural Networks in Manufacturing Industrial Internet"
     authors: Yingyan Zeng, <strong>Parshin Shojaee</strong>, Syed Hasib Akhter Faruqui, Adel Alaeddini, Ran Jin
-    conference_short: ICPS
+    conference_short: ICPS 2021
     conference: IEEE 5th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9816900
     bibtex:  ./assets/img/cbrd-bibtex.txt
@@ -74,7 +74,7 @@ main:
 
   - title: "Deep Neural Network Pipelines for Multivariate Time Series Classification in Smart Manufacturing"
     authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Xiaoyu Chen, Ran Jin, Xinwei Deng, Chuck Zhang
-    conference_short: ICPS
+    conference_short: ICPS 2020
     conference: IEEE 4th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/abstract/document/9468245
     bibtex:  ./assets/img/tspip-bibtex.txt
