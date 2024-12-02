@@ -17,7 +17,7 @@ main:
     pdf: https://arxiv.org/pdf/2404.18400.pdf
     bibtex: ./assets/img/llmsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/LLM-SR
-    image: ./assets/img/llmsr_animated.jpg
+    image: ./assets/img/llmsr-animated.png
     # image: ./assets/img/llmsr-photo.png
 
 
