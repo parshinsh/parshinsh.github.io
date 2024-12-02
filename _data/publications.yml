@@ -4,7 +4,7 @@ main:
     authors: <strong>Parshin Shojaee</strong>, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, Yunyao Li
     conference_short: COLING 2025
     conference: International Conference on Computational Linguistics <strong>(COLING 2025 Industry Track)</strong>
-    image: ./assets/img/mkpqa_resp.png
+    image: ./assets/img/mkpqa_ret.png
     # code: https://github.com/deep-symbolic-mathematics/LLM-SR
     # bibtex: ./assets/img/llmsr-bibtex.txt
     # pdf: https://arxiv.org/pdf/2404.18400.pdf
