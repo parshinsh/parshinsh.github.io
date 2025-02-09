@@ -1,21 +1,11 @@
 main:
-
-  # - title: "Federatd Retrieval Augmented Generation for Multi-Product Question Answering"
-  #   authors: <strong>Parshin Shojaee</strong>, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, Yunyao Li
-  #   conference_short: COLING 2025
-  #   conference: International Conference on Computational Linguistics <strong>(COLING 2025 Industry Track)</strong>
-  #   image: ./assets/img/mkpqa_ret.png
-  #   # code: https://github.com/deep-symbolic-mathematics/LLM-SR
-  #   # bibtex: ./assets/img/llmsr-bibtex.txt
-  #   # pdf: https://arxiv.org/pdf/2404.18400.pdf
-  
   
   - title: "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models"
     authors: <strong>Parshin Shojaee*</strong>, Kazem Meidani*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
-    conference_short: Preprint
-    conference: Preprint.
+    conference_short: ICLR 2025
+    conference: International Conference on Learning Representations <strong>(ICLR 2025)</strong>.
     pdf: https://arxiv.org/pdf/2404.18400.pdf
-    bibtex: ./assets/img/llmsr-bibtex.txt
+    # bibtex: ./assets/img/llmsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/LLM-SR
     image: ./assets/img/llmsr-animated.png
     # image: ./assets/img/llmsr-photo.png
@@ -26,7 +16,7 @@ main:
     conference_short: ICLR 2024
     conference: International Conference on Learning Representations <strong>(ICLR 2024)</strong>.
     pdf: https://arxiv.org/pdf/2310.02227.pdf
-    bibtex: ./assets/img/snip-bibtex.txt
+    # bibtex: ./assets/img/snip-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/Multimodal-Math-Pretraining
     image: ./assets/img/snip_square.png
     notes: Spotlight (top 5%)
@@ -37,7 +27,7 @@ main:
     conference_short: NeurIPS 2023
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS 2023)</strong>.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
-    bibtex: ./assets/img/tpsr-bibtex.txt
+    # bibtex: ./assets/img/tpsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/TPSR
     video: https://recorder-v3.slideslive.com/?share=85687&s=2eae8d5c-2f2b-40cf-9d7f-7b56a7a03828
     image: ./assets/img/tpsr2.gif
@@ -48,45 +38,66 @@ main:
     conference_short: TMLR
     conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2301.13816.pdf 
-    bibtex:  ./assets/img/ppocoder-bibtex.txt
+    # bibtex:  ./assets/img/ppocoder-bibtex.txt
     code: https://github.com/reddy-lab-code-research/PPOCoder
     video: https://tmlr.infinite-conf.org/paper_pages/0XBuaxqEcG.html
     image: ./assets/img/ppocoder3.jpg
 
-
-  - title: "Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting"
-    authors: Zibo Liu, <strong>Parshin Shojaee</strong>, Chandan K. Reddy
-    conference_short: TMLR
-    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2305.18687.pdf 
-    bibtex:  ./assets/img/gramode-bibtex.txt
-    code: https://github.com/zbliu98/GRAM-ODE
-    video: https://tmlr.infinite-conf.org/paper_pages/Oq5XKRVYpQ.html
-    image: ./assets/img/gramode3.png
-
-
-  - title: "Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet"
-    authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Muntasir Wahed, Avi Seth, Ran Jin, Ismini Lourentzou
-    conference_short: Big Data 2022
-    conference: IEEE International Conference on Big Data <strong>(Big Data 2022)</strong>.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10020861
-    bibtex:  ./assets/img/pried-bibtex.txt
-    image: ./assets/img/pried.png
+  
+  - title: "Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges"
+    authors: Chandan K. Reddy, <strong>Parshin Shojaee</strong>
+    conference_short: AAAI 2025
+    conference: The Association for the Advancement of Artificial Intelligence (AAAI 2025)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2412.11427 
+    # bibtex:  ./assets/img/gramode-bibtex.txt
+    # code: https://github.com/zbliu98/GRAM-ODE
+    # video: https://tmlr.infinite-conf.org/paper_pages/Oq5XKRVYpQ.html
+    image: ./assets/img/scidisc.png
 
 
-  - title: "Contextual Bandit Guided Data Farming for Deep Neural Networks in Manufacturing Industrial Internet"
-    authors: Yingyan Zeng, <strong>Parshin Shojaee</strong>, Syed Hasib Akhter Faruqui, Adel Alaeddini, Ran Jin
-    conference_short: ICPS 2022
-    conference: IEEE 5th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS 2022)</strong>.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9816900
-    bibtex:  ./assets/img/cbrd-bibtex.txt
-    image: ./assets/img/cbrd.png
+  - title: "Federatd Retrieval Augmented Generation for Multi-Product Question Answering"
+    authors: <strong>Parshin Shojaee</strong>, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, Yunyao Li
+    conference_short: COLING 2025
+    conference: International Conference on Computational Linguistics <strong>(COLING 2025, Industry Track)</strong>
+    image: ./assets/img/mkpqa_ret.png
+    # code: https://github.com/deep-symbolic-mathematics/LLM-SR
+    # bibtex: https://aclanthology.org/2025.coling-industry.33/
+    pdf: https://aclanthology.org/2025.coling-industry.33/
+  
+  
+  # - title: "Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting"
+  #   authors: Zibo Liu, <strong>Parshin Shojaee</strong>, Chandan K. Reddy
+  #   conference_short: TMLR
+  #   conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2305.18687.pdf 
+  #   bibtex:  ./assets/img/gramode-bibtex.txt
+  #   code: https://github.com/zbliu98/GRAM-ODE
+  #   video: https://tmlr.infinite-conf.org/paper_pages/Oq5XKRVYpQ.html
+  #   image: ./assets/img/gramode3.png
 
 
-  - title: "Deep Neural Network Pipelines for Multivariate Time Series Classification in Smart Manufacturing"
-    authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Xiaoyu Chen, Ran Jin, Xinwei Deng, Chuck Zhang
-    conference_short: ICPS 2021
-    conference: IEEE 4th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS 2021)</strong>.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9468245
-    bibtex:  ./assets/img/tspip-bibtex.txt
-    image: ./assets/img/tspip.png
+  # - title: "Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial Internet"
+  #   authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Muntasir Wahed, Avi Seth, Ran Jin, Ismini Lourentzou
+  #   conference_short: Big Data 2022
+  #   conference: IEEE International Conference on Big Data <strong>(Big Data 2022)</strong>.
+  #   pdf: https://ieeexplore.ieee.org/abstract/document/10020861
+  #   bibtex:  ./assets/img/pried-bibtex.txt
+  #   image: ./assets/img/pried.png
+
+
+  # - title: "Contextual Bandit Guided Data Farming for Deep Neural Networks in Manufacturing Industrial Internet"
+  #   authors: Yingyan Zeng, <strong>Parshin Shojaee</strong>, Syed Hasib Akhter Faruqui, Adel Alaeddini, Ran Jin
+  #   conference_short: ICPS 2022
+  #   conference: IEEE 5th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS 2022)</strong>.
+  #   pdf: https://ieeexplore.ieee.org/abstract/document/9816900
+  #   bibtex:  ./assets/img/cbrd-bibtex.txt
+  #   image: ./assets/img/cbrd.png
+
+
+  # - title: "Deep Neural Network Pipelines for Multivariate Time Series Classification in Smart Manufacturing"
+  #   authors: <strong>Parshin Shojaee</strong>, Yingyan Zeng, Xiaoyu Chen, Ran Jin, Xinwei Deng, Chuck Zhang
+  #   conference_short: ICPS 2021
+  #   conference: IEEE 4th International Conference on Industrial Cyber-Physical Systems <strong>(ICPS 2021)</strong>.
+  #   pdf: https://ieeexplore.ieee.org/abstract/document/9468245
+  #   bibtex:  ./assets/img/tspip-bibtex.txt
+  #   image: ./assets/img/tspip.png
