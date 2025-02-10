@@ -33,9 +33,9 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 ## News
 - **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
-- **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/)!
-- **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is on now arxiv.
-- **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/) 
+- **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLMs agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/)!
+- **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
+- **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
 - **[May. 2024]** I’m excited to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
 - **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper on mathematical discovery with multi-modal latent reasoning is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
