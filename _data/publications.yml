@@ -8,7 +8,7 @@ main:
     # bibtex: ./assets/img/llmsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/LLM-SR
     image: ./assets/img/llmsr-animated.png
-    # image: ./assets/img/llmsr-photo.png
+    notes: Oral (top 1%)
 
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"

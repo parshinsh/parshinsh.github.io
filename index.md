@@ -33,7 +33,7 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 ## News
 - **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
-- **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLMs agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/)!
+- **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!
 - **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
 - **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
 - **[May. 2024]** I’m excited to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
