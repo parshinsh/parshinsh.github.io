@@ -32,8 +32,8 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 
 ## News
-- **[Feb 2025]**  I'm joining [Apple](https://machinelearning.apple.com/) as Research Intern for Spring and Summer 2025 to work on Reasoning with LLMs!
-- **[Feb 2025]**  I will be presenting our tutorial of “[Symbolic Regression: Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
+- **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
+- **[Feb 2025]**  I'll be presenting our tutorial of “[Symbolic Regression: Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
 - **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!
 - **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
 - **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
