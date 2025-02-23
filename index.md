@@ -32,16 +32,17 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 
 ## News
-- **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
+- **[Feb 2025]**  I'll be joining [Apple](https://machinelearning.apple.com/) as Research Intern for Spring and Summer 2025 to work on Reasoning wit LLMs!
+- **[Feb 2025]**  I'll be presenting our tutorial of “[Symbolic Regression: Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
 - **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!
 - **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
 - **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
-- **[May. 2024]** I’m excited to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
+- **[May. 2024]** I'm starting my internship at [Adobe](https://www.adobe.com/home) for Summer 2024!
 - **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper on mathematical discovery with multi-modal latent reasoning is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
 - **[Sep. 2023]** Our paper [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) on mathematical discovery with language model + MCTS planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
-- **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on deep reinforcement learning for code generation and program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
-- **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
+<!-- - **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on deep reinforcement learning for code generation and program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
+- **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)!  -->
 
 <!-- - **[Apr. 2024]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs + evolutionary search for scientific discovery is now on arXiv. -->
 
