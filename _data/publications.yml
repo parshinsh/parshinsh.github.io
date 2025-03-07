@@ -47,7 +47,7 @@ main:
   - title: "Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges"
     authors: Chandan K. Reddy, <strong>Parshin Shojaee</strong>
     conference_short: AAAI 2025
-    conference: The Association for the Advancement of Artificial Intelligence (AAAI 2025)</strong>, 2023.
+    conference: The Association for the Advancement of Artificial Intelligence <strong>(AAAI 2025)</strong>.
     pdf: https://arxiv.org/abs/2412.11427 
     # bibtex:  ./assets/img/gramode-bibtex.txt
     # code: https://github.com/zbliu98/GRAM-ODE
