@@ -5,8 +5,8 @@ layout: homepage
 ## About Me
 
 I’m a third-year CS PhD student at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). I am also currently a research intern at [Apple](https://machinelearning.apple.com/). My primary research topic is AI for symbolic generation (code, math, reasoning) and its potential for scientific discovery. I mostly focus on developing better algorithms for language models to handle symbolic reasoning and scientific discovery tasks, while studying their current limitations.
-During the course of my PhD, I have also pursued summer AI/ML research internships at [Adobe](https://www.adobe.com/home) (2024) and [Gilead Sciences](https://www.gilead.com/) (2022). 
-Prior to starting my PhD, I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
+During the course of my PhD, I have also pursued summer AI/ML research internships at [Adobe](https://www.adobe.com/home) (2024). 
+Prior to starting my PhD, I was a summer ML intern at [Gilead Sciences](https://www.gilead.com/) (2022), completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
 If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.edu)
 
@@ -32,6 +32,8 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 
 ## News
+- **[May 2025]**  Our paper [LLM-SRBench](https://arxiv.org/abs/2504.10415) is accepted to [**ICML 2025**](https://icml.cc/) as <strong style="color: red;">Oral</strong>! 
+- **[Apr 2025]**  Preprint of [LLM-SRBench](https://arxiv.org/abs/2504.10415), our new benchmark targetting memorization issue in LLM-based scientific equation disocvery, is now on arxiv.  
 - **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
 - **[Feb 2025]**  I'll be presenting our tutorial of “[Symbolic Regression: Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
 - **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!

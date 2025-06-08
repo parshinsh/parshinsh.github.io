@@ -1,8 +1,8 @@
 ## Services
 
-**Conference Reviewer:** ICML 2025, AISTAT 2025, ICLR 2025, NeurIPS 2024 (Top Reviewer both Main & DB Tracks)
+**Conference Reviewer:** NeurIPS 2025, ICML 2025, AISTAT 2025, ICLR 2025, NeurIPS 2024 (Top Reviewer both Main & DB Tracks)
 
-**Journal Reviewer:** Nature, TMLR, npj AI, ACM TIST 
+**Journal Reviewer:** Nature Machine Intelligence, Nature, TMLR, npj AI, ACM TIST 
 
 **Workshop Reviewer:** NeurIPS 2024 AI for Math, ICML 2024 AI for Science
 
