@@ -44,8 +44,9 @@ If you're interested in my research, would like to discuss relevant topics, or e
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
 - **[Sep. 2023]** Our paper [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) on mathematical discovery with language model + MCTS planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
 
-<!-- - **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on deep reinforcement learning for code generation and program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)! 
-- **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)!  -->
+- **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on deep reinforcement learning for code generation and program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)!
+
+<!-- - **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)!  --> -->
 
 <!-- - **[Apr. 2024]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on using LLMs + evolutionary search for scientific discovery is now on arXiv. -->
 
