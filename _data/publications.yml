@@ -1,7 +1,7 @@
 main:
   
   - title: "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models"
-    authors: <strong>Parshin Shojaee*</strong>, Ngoc-Hieu Nguyen, Kazem Meidani, Amir Barati Farimani, Khoda D Doan, Chandan K. Reddy
+    authors: <strong>Parshin Shojaee</strong>, Ngoc-Hieu Nguyen, Kazem Meidani, Amir Barati Farimani, Khoda D Doan, Chandan K. Reddy
     conference_short: ICML 2025
     conference: International Conference on Machine Learning <strong>(ICML 2025)</strong>.
     pdf: https://arxiv.org/pdf/2504.10415
