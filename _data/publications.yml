@@ -1,7 +1,7 @@
 main:
   
   - title: "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models"
-    authors: <strong>Parshin Shojaee*</strong>, Ngoc-Hieu Nguyen*, Kazem Meidani, Amir Barati Farimani, Khoda D Doan, Chandan K. Reddy (*Equal Contribution)
+    authors: <strong>Parshin Shojaee*</strong>, Ngoc-Hieu Nguyen, Kazem Meidani, Amir Barati Farimani, Khoda D Doan, Chandan K. Reddy
     conference_short: ICML 2025
     conference: International Conference on Machine Learning <strong>(ICML 2025)</strong>.
     pdf: https://arxiv.org/pdf/2504.10415
@@ -9,7 +9,7 @@ main:
     code: https://github.com/deep-symbolic-mathematics/llm-srbench
     data: https://huggingface.co/datasets/nnheui/llm-srbench
     image: ./assets/img/llmsrbench.png
-    notes: Oral (top 1%)
+    notes: Oral (top 1.4%)
   
   - title: "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models"
     authors: <strong>Parshin Shojaee*</strong>, Kazem Meidani*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
@@ -19,7 +19,7 @@ main:
     # bibtex: ./assets/img/llmsr-bibtex.txt
     code: https://github.com/deep-symbolic-mathematics/LLM-SR
     image: ./assets/img/llmsr-animated.png
-    notes: Oral (top 2%)
+    notes: Oral (top 2.6%)
 
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
