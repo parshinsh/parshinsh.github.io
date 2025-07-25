@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a third-year CS PhD student at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). I am also currently a research intern at [Apple](https://machinelearning.apple.com/). My primary research topic is AI for symbolic generation (code, math, reasoning) and its potential for scientific discovery. I mostly focus on developing better algorithms for language models to handle symbolic reasoning and scientific discovery tasks, while studying their current limitations.
+I’m a last-year CS PhD student at Virginia Tech, advised by Prof. [Chandan Reddy](https://people.cs.vt.edu/reddy/). I am also currently a research intern at [Apple](https://machinelearning.apple.com/). My primary research topic is AI for symbolic generation (code, math, reasoning) and its potential for scientific discovery. I mostly focus on developing better algorithms for language models to handle symbolic reasoning and scientific discovery tasks, while studying their current limitations.
 During the course of my PhD, I have also pursued summer AI/ML research internships at [Adobe](https://www.adobe.com/home) (2024). 
 Prior to starting my PhD, I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
