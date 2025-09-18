@@ -34,10 +34,12 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 
 ## News
+- **[Sep 2025]**  Our paper [The Illusion of Thinking](https://arxiv.org/abs/2506.06941) is accepted to [**NeurIPS 2025**](https://neurips.cc/)!
+- **[June 2025]**  My Apple internship project [The Illusion of Thinking? Understanding Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/abs/2506.06941) is now on arxiv.
 - **[May 2025]**  Our paper [LLM-SRBench](https://arxiv.org/abs/2504.10415) is accepted to [**ICML 2025**](https://icml.cc/) as <strong style="color: red;">Oral</strong>! 
 - **[Apr 2025]**  Preprint of [LLM-SRBench](https://arxiv.org/abs/2504.10415), our new benchmark targetting memorization issue in LLM-based scientific disocvery, is now on arxiv.  
 - **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
-- **[Feb 2025]**  I'll be presenting our tutorial of “[Symbolic Regression: Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
+- **[Feb 2025]**  I'll be presenting our tutorial of “[Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
 - **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!
 - **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
 - **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
