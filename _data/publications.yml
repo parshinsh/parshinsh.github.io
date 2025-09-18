@@ -1,5 +1,17 @@
 main:
   
+  - title: "The Illusion of Thinking? Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity"
+    authors: <strong>Parshin Shojaee</strong>, Iman Mirzadeh, Keivan Alizadeh, Max Horton, Samy Bengio, Mehrdad Farajtabar
+    conference_short: NeurIPS 2025
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS 2025)</strong>.
+    pdf: https://arxiv.org/abs/2506.06941
+    # bibtex: ./assets/img/llmsr-bibtex.txt
+    # code: https://github.com/deep-symbolic-mathematics/llm-srbench
+    # data: https://huggingface.co/datasets/nnheui/llm-srbench
+    image: ./assets/img/illusion.png
+    # notes: Oral (top 1%)
+  
+  
   - title: "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models"
     authors: <strong>Parshin Shojaee</strong>, Ngoc-Hieu Nguyen, Kazem Meidani, Amir Barati Farimani, Khoda D Doan, Chandan K. Reddy
     conference_short: ICML 2025
@@ -12,7 +24,7 @@ main:
     notes: Oral (top 1%)
   
   - title: "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models"
-    authors: <strong>Parshin Shojaee*</strong>, Kazem Meidani*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
+    authors: <strong>Parshin Shojaee</strong>, Kazem Meidani, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy
     conference_short: ICLR 2025
     conference: International Conference on Learning Representations <strong>(ICLR 2025)</strong>.
     pdf: https://arxiv.org/pdf/2404.18400.pdf
@@ -23,7 +35,7 @@ main:
 
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
-    authors: Kazem Meidani*, <strong>Parshin Shojaee*</strong>, Chandan K. Reddy, Amir Barati Farimani (*Equal Contribution)
+    authors: Kazem Meidani, <strong>Parshin Shojaee</strong>, Chandan K. Reddy, Amir Barati Farimani
     conference_short: ICLR 2024
     conference: International Conference on Learning Representations <strong>(ICLR 2024)</strong>.
     pdf: https://arxiv.org/pdf/2310.02227.pdf
