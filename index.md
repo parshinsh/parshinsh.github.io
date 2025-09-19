@@ -34,7 +34,7 @@ If you're interested in my research on reasoning and discovery with LLMs, would 
 
 
 ## News
-- **[Sep 2025]**  Our paper [The Illusion of Thinking](https://arxiv.org/abs/2506.06941) is accepted to [**NeurIPS 2025**](https://neurips.cc/)!
+- **[Sep 2025]**  Our paper [The Illusion of Thinking](https://arxiv.org/abs/2506.06941) is accepted to [**NeurIPS 2025**](https://neurips.cc/) main track! See you in San Diego!
 - **[June 2025]**  My Apple internship project [The Illusion of Thinking? Understanding Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/abs/2506.06941) is now on arxiv.
 - **[May 2025]**  Our paper [LLM-SRBench](https://arxiv.org/abs/2504.10415) is accepted to [**ICML 2025**](https://icml.cc/) as <strong style="color: red;">Oral</strong>! 
 - **[Apr 2025]**  Preprint of [LLM-SRBench](https://arxiv.org/abs/2504.10415), our new benchmark targetting memorization issue in LLM-based scientific disocvery, is now on arxiv.  
