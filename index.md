@@ -39,14 +39,14 @@ If you're interested in my research on reasoning and discovery with LLMs, would 
 - **[May 2025]**  Our paper [LLM-SRBench](https://arxiv.org/abs/2504.10415) is accepted to [**ICML 2025**](https://icml.cc/) as <strong style="color: red;">Oral</strong>! 
 - **[Apr 2025]**  Preprint of [LLM-SRBench](https://arxiv.org/abs/2504.10415), our new benchmark targetting memorization issue in LLM-based scientific disocvery, is now on arxiv.  
 - **[Feb 2025]**  Excited to start my research internship at [Apple](https://machinelearning.apple.com/)!
-- **[Feb 2025]**  I'll be presenting our tutorial of “[Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). Looking forward to seeing everyone in Philadelphia!
+- **[Feb 2025]**  I'll be presenting our tutorial of “[Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). See you in Philadelphia!
 - **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!
 - **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
 - **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
 - **[May. 2024]** I’m excited to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
 - **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper on mathematical discovery with multi-modal latent reasoning is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
-- **[Sep. 2023]** Our paper [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) on mathematical discovery with language model + MCTS planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
+- **[Sep. 2023]** Our paper [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) on mathematical discovery with language model + MCTS lookahead planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
 - **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on reinforcement learning for program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)!
 
 <!-- - **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)!  --> 
@@ -70,5 +70,5 @@ If you're interested in my research on reasoning and discovery with LLMs, would 
 
 
 ## A little more about me
-When I'm not into AI research, I enjoy exploring all kinds of music and playing [Tar](https://www.youtube.com/watch?v=XXYy_bmlUpg) and [Setar](https://www.youtube.com/watch?app=desktop&v=enL-YQKihvg) instruments (think Persian guitars with their own unique twist). Recently, I'm also into hiking new trails, and trying to be good at gardening :D 
+When I'm not into AI research, I enjoy exploring all kinds of music and playing [Tar](https://www.youtube.com/watch?v=XXYy_bmlUpg) and [Setar](https://www.youtube.com/watch?app=desktop&v=enL-YQKihvg) instruments (Persian guitars with their own unique twist). Recently, I'm also into hiking new trails, and trying to be good at gardening :D 
 

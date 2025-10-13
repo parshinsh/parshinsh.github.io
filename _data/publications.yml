@@ -78,14 +78,14 @@ main:
     image: ./assets/img/scidisc.png
 
 
-  - title: "Federatd Retrieval Augmented Generation for Multi-Product Question Answering"
-    authors: <strong>Parshin Shojaee</strong>, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, Yunyao Li
-    conference_short: COLING 2025
-    conference: International Conference on Computational Linguistics <strong>(COLING 2025, Industry Track)</strong>
-    image: ./assets/img/mkpqa_ret.png
-    # code: https://github.com/deep-symbolic-mathematics/LLM-SR
-    # bibtex: https://aclanthology.org/2025.coling-industry.33/
-    pdf: https://aclanthology.org/2025.coling-industry.33/
+  # - title: "Federatd Retrieval Augmented Generation for Multi-Product Question Answering"
+  #   authors: <strong>Parshin Shojaee</strong>, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, Yunyao Li
+  #   conference_short: COLING 2025
+  #   conference: International Conference on Computational Linguistics <strong>(COLING 2025, Industry Track)</strong>
+  #   image: ./assets/img/mkpqa_ret.png
+  #   # code: https://github.com/deep-symbolic-mathematics/LLM-SR
+  #   # bibtex: https://aclanthology.org/2025.coling-industry.33/
+  #   pdf: https://aclanthology.org/2025.coling-industry.33/
   
   
   # - title: "Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting"
