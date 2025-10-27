@@ -8,7 +8,7 @@ I’m a final-year CS PhD student at Virginia Tech, advised by Prof. [Chandan Re
 During my PhD, I have also pursued research internships at [Apple](https://machinelearning.apple.com/) (2025) and [Adobe](https://www.adobe.com/home) (2024). 
 Prior to starting my PhD, I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
-If you're interested in my research on reasoning and discovery with LLMs, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.edu)
+If you're interested in my research on open-ended reasoning and discovery with LLMs, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.edu)
 
 
 <!-- I was a summer ML intern at [Gilead Sciences](https://www.gilead.com/) (2022),  -->
@@ -42,7 +42,7 @@ If you're interested in my research on reasoning and discovery with LLMs, would 
 - **[Feb 2025]**  I'll be presenting our tutorial of “[Towards Interpretability and Automated Scientific Discovery](https://symbolicregression2025.github.io/)” at [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/). See you in Philadelphia!
 - **[Jan 2025]** Our [LLM-SR](https://arxiv.org/abs/2404.18400) paper on LLM agents + evolutionary search for scientific discovery is accepted to [**ICLR 2025**](https://iclr.cc/) as <strong style="color: red;">Oral</strong>!
 - **[Dec 2024]** My Adobe internship project [Federated RAG for Multi-Source QA](https://arxiv.org/abs/2501.14998) is now on arxiv.
-- **[Nov 2024]** Our position paper on [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
+- **[Nov 2024]** Our position paper on the potentials and challenges of [AI for Scientific Discovery](https://arxiv.org/abs/2412.11427) is accepted to [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)!
 - **[May. 2024]** I’m excited to start my internship at [Adobe](https://www.adobe.com/home) in this summer!
 - **[Jan. 2024]** Our [SNIP (Symbolic-Numeric Pretraining)](https://openreview.net/forum?id=KZSEgJGPxu) paper on mathematical discovery with multi-modal latent reasoning is accepted to [**ICLR 2024**](https://iclr.cc/Conferences/2024) as <strong style="color: red;">Spotlight</strong>!
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. Please reach out if you want to chat! 
