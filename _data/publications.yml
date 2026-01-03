@@ -1,14 +1,14 @@
 main:
   
   - title: "Evaluating Large Language Models in Scientific Discovery"
-    authors: <strong>Parshin Shojaee</strong>, Iman Mirzadeh, Keivan Alizadeh, Max Horton, Samy Bengio, Mehrdad Farajtabar
+    authors: Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu*, Thomas M. Pruyn*, Yue Huang*, Kehan Guo*, Xiuzhe Luo*, Yuanhao Qu*, Yi Qu*, Yinkai Wang*, Haorui Wang*, Jeff Guo*, Jingru Gan*, <strong>Parshin Shojaee*</strong>, ..., Huan Sun, Mohammad Moosavi, Chenru Duan.
     conference_short: Preprint
-    conference: arXiv preprint arXiv:2601.00000
-    pdf: https://arxiv.org/abs/2601.00000
+    conference: arXiv preprint arXiv:2512.15567
+    pdf: https://arxiv.org/abs/2512.15567
     # bibtex: ./assets/img/llmsr-bibtex.txt
-    # code: https://github.com/deep-symbolic-mathematics/llm-srbench
-    # data: https://huggingface.co/datasets/nnheui/llm-srbench    
-    image: ./assets/img/eval-llm-sci.png
+    code: https://github.com/HowieHwong/sde-harness
+    contribution: https://github.com/HowieHwong/sde-harness/tree/main/projects/llmsr    
+    image: ./assets/img/sde-hardness.png
     # notes: Oral (top 1%)
   
   

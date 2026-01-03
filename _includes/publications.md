@@ -30,6 +30,12 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
+      {% if link.project_code %} 
+      <a href="{{ link.project_code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Code</a>
+      {% endif %}
+      {% if link.contribution %} 
+      <a href="{{ link.contribution }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contribution</a>
+      {% endif %}
       {% if link.data %} 
       <a href="{{ link.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark Data</a>
       {% endif %}
