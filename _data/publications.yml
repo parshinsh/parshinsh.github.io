@@ -1,5 +1,18 @@
 main:
   
+  - title: "Evaluating Large Language Models in Scientific Discovery"
+    authors: <strong>Parshin Shojaee</strong>, Iman Mirzadeh, Keivan Alizadeh, Max Horton, Samy Bengio, Mehrdad Farajtabar
+    conference_short: Preprint
+    conference: arXiv preprint arXiv:2601.00000
+    pdf: https://arxiv.org/abs/2601.00000
+    # bibtex: ./assets/img/llmsr-bibtex.txt
+    # code: https://github.com/deep-symbolic-mathematics/llm-srbench
+    # data: https://huggingface.co/datasets/nnheui/llm-srbench    
+    image: ./assets/img/eval-llm-sci.png
+    # notes: Oral (top 1%)
+  
+  
+  
   - title: "The Illusion of Thinking? Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity"
     authors: <strong>Parshin Shojaee</strong>, Iman Mirzadeh, Keivan Alizadeh, Max Horton, Samy Bengio, Mehrdad Farajtabar
     conference_short: NeurIPS 2025
@@ -9,6 +22,9 @@ main:
     # code: https://github.com/deep-symbolic-mathematics/llm-srbench
     # data: https://huggingface.co/datasets/nnheui/llm-srbench
     image: ./assets/img/illusion.png
+    HackerNews: https://news.ycombinator.com/item?id=44203562
+    Forbes: https://forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/
+    Mashable: https://mashable.com/article/apple-research-ai-reasoning-models-collapse-logic-puzzles
     # notes: Oral (top 1%)
   
   
