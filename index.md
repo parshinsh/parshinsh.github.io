@@ -60,6 +60,46 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 
 <div class="news-scrollable">
+  <ul>
+    <li><strong>[Dec 2025]</strong> Preprint of <a href="https://arxiv.org/abs/2512.15567">SDE-Harness</a>, our new large-scale study on evaluating LLMs in scientific discovery, is now on arXiv.</li>
+
+    <li><strong>[Dec 2025]</strong> Presenting our NeurIPS 2025 poster on <a href="https://www.youtube.com/watch?v=qD0_aHQvdR8">Women in AI Research Podcast</a>!</li>
+
+    <li><strong>[Nov 2025]</strong> Our paper <a href="https://openreview.net/forum?id=fbrmmokJiU">DecAEvolve (Decompose, Adapt, and Evolve)</a>, a new LLM-based evolutionary discovery framework augmented with adaptation and test-time training, is accepted to <a href="https://mathai2025.github.io/">Math-AI</a> and <a href="https://ai4sciencecommunity.github.io/neurips25">AI4Science</a> Workshops at <strong>NeurIPS 2025</strong>.</li>
+
+    <li><strong>[Sep 2025]</strong> Our paper <a href="https://arxiv.org/abs/2506.06941">The Illusion of Thinking</a> is accepted to <a href="https://neurips.cc/"><strong>NeurIPS 2025</strong></a> main track! See you in San Diego!</li>
+
+    <li><strong>[June 2025]</strong> My Apple internship project <a href="https://arxiv.org/abs/2506.06941">The Illusion of Thinking? Understanding Reasoning Models via the Lens of Problem Complexity</a> is now on arXiv.</li>
+
+    <li><strong>[May 2025]</strong> Our paper <a href="https://arxiv.org/abs/2504.10415">LLM-SRBench</a> is accepted to <a href="https://icml.cc/"><strong>ICML 2025</strong></a> as <strong style="color:red;">Oral</strong>!</li>
+
+    <li><strong>[Apr 2025]</strong> Preprint of <a href="https://arxiv.org/abs/2504.10415">LLM-SRBench</a>, our new benchmark targeting memorization issues in LLM-based scientific discovery, is now on arXiv.</li>
+
+    <li><strong>[Feb 2025]</strong> Excited to start my research internship at <a href="https://machinelearning.apple.com/">Apple</a>!</li>
+
+    <li><strong>[Feb 2025]</strong> I’ll be presenting our tutorial “<a href="https://symbolicregression2025.github.io/">Towards Interpretability and Automated Scientific Discovery</a>” at <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a>. See you in Philadelphia!</li>
+
+    <li><strong>[Jan 2025]</strong> Our <a href="https://arxiv.org/abs/2404.18400">LLM-SR</a> paper on LLM agents + evolutionary search for scientific discovery is accepted to <a href="https://iclr.cc/"><strong>ICLR 2025</strong></a> as <strong style="color:red;">Oral</strong>!</li>
+
+    <li><strong>[Dec 2024]</strong> My Adobe internship project <a href="https://arxiv.org/abs/2501.14998">Federated RAG for Multi-Source QA</a> is now on arXiv.</li>
+
+    <li><strong>[Nov 2024]</strong> Our position paper on <a href="https://arxiv.org/abs/2412.11427">AI for Scientific Discovery</a> is accepted to <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a>!</li>
+
+    <li><strong>[May 2024]</strong> Excited to start my internship at <a href="https://www.adobe.com/home">Adobe</a> this summer!</li>
+
+    <li><strong>[Jan 2024]</strong> Our <a href="https://openreview.net/forum?id=KZSEgJGPxu">SNIP (Symbolic-Numeric Pretraining)</a> paper is accepted to <a href="https://iclr.cc/Conferences/2024"><strong>ICLR 2024</strong></a> as <strong style="color:red;">Spotlight</strong>!</li>
+
+    <li><strong>[Dec 2023]</strong> I will be at NeurIPS 2023 in New Orleans, presenting our <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html">TPSR</a> paper.</li>
+
+    <li><strong>[Sep 2023]</strong> Our <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html">TPSR</a> paper is accepted to <a href="https://nips.cc/"><strong>NeurIPS 2023</strong></a>!</li>
+
+    <li><strong>[Jul 2023]</strong> Our <a href="https://openreview.net/forum?id=0XBuaxqEcG">PPOCoder</a> paper is accepted to <a href="https://jmlr.org/tmlr/"><strong>TMLR</strong></a>!</li>
+  </ul>
+</div>
+
+
+
+<!-- <div class="news-scrollable">
 
 - **[Dec 2025]**  Preprint of [SDE-Harness](https://arxiv.org/abs/2512.15567), our new large-scale study on evaluating LLMs in scientific discovery, is now on arxiv.
 - **[Dec 2025]**  Presenting our NeurIPS 2025 poster on [Women in AI Research Podcast](https://www.youtube.com/watch?v=qD0_aHQvdR8)!
@@ -79,7 +119,8 @@ If you're interested in my research on open-ended reasoning and discovery with L
 - **[Sep. 2023]** Our paper [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) on mathematical discovery with language model + MCTS lookahead planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
 - **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on reinforcement learning for program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)!
 
-</div>
+</div> -->
+
 
 
 <!-- - **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)!  --> 
