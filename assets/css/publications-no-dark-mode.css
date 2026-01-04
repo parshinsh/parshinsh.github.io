@@ -79,7 +79,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     overflow-y: auto;
     overflow-x: hidden;
     padding-right: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .news-scrollable ul {
