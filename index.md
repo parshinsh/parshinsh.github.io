@@ -8,7 +8,7 @@ Hi! I’m a final-year PhD student in Computer Science at Virginia Tech, advised
 
 
 During my PhD, I've been fortunate to have my work recognized through fellowships and awards, including the [Pratt Fellowship](https://www.cals.vt.edu/academic-programs/current/graduate/pratt.html), and two papers nominated as **Oral presentation** at [ICML 2025](https://openreview.net/forum?id=SyQPiZJVWY) (top 1%) and [ICLR 2025](https://openreview.net/forum?id=m2nmp8P5in) (top 1.8%). My research has also been featured in [Nature](https://www.nature.com/articles/d41586-025-02616-5), [CNBC](https://www.cnbc.com/video/2025/06/26/why-the-ai-industry-has-a-reasoning-problem.html), [HackerNews](https://news.ycombinator.com/item?id=44203562), [Forbes](forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/), [Mashable](https://mashable.com/article/apple-research-ai-reasoning-models-collapse-logic-puzzles), [The Guardian](https://www.theguardian.com/technology/2025/jun/09/apple-artificial-intelligence-ai-study-collapse), [New York Times](https://www.nytimes.com/2025/06/13/technology/meta-scale-ai-super-intelligence-lab.html#:~:text=%E2%80%9CThese%20are%20great%20tools%2C%E2%80%9D,lab?), etc. 
-I was fortunate to work with brilliant researchers in the field whose mentorship and collaboration has shaped my research journey: [Chandan Reddy](https://creddy.net/) (VT), [Mehrdad Farajtabar](https://sites.google.com/view/mehrdad) (Apple), [Samy Bengio](https://bengio.abracadoudou.com/) (Apple), [Amir Barati Farimani](https://sites.google.com/view/barati) (CMU), [Iman Mirzadeh](https://imirzadeh.me/) (Apple), [Yunyao Li](https://yunyaoli.github.io/) (Adobe), [Shashank Gupta](https://shashankgupta.info/) (AI2), and [Khoa Doan](https://vinuni.edu.vn/people/khoa-d-doan-phd/) (VinUniversity). 
+I was fortunate to work with brilliant researchers in the field whose mentorship and collaboration has shaped my research journey: [Chandan Reddy](https://creddy.net/) (VT), [Mehrdad Farajtabar](https://sites.google.com/view/mehrdad) (Apple), [Samy Bengio](https://bengio.abracadoudou.com/) (Apple), [Amir Barati Farimani](https://sites.google.com/view/barati) (CMU), [Iman Mirzadeh](https://imirzadeh.me/) (Apple), [Yunyao Li](https://yunyaoli.github.io/) (Adobe), [Shashank Gupta](https://shashankgupta.info/) (AI2), and [Khoa Doan](https://mail-research.com/) (VinUniversity). 
 
 
 <!-- . I have worked with -->
@@ -57,8 +57,8 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 
 ## News
-- **[Dec 2025]**  Presenting our NeurIPS 2025 poster at the [Women in AI Research Podcast](https://www.youtube.com/watch?v=qD0_aHQvdR8)!
 - **[Dec 2025]**  Preprint of [SDE-Harness](https://arxiv.org/abs/2512.15567), our new large-scale study on evaluating LLMs in scientific discovery, is now on arxiv.
+- **[Dec 2025]**  Presenting our NeurIPS 2025 poster at the [Women in AI Research Podcast](https://www.youtube.com/watch?v=qD0_aHQvdR8)!
 - **[Nov 2025]**  Our paper [DecAEvolve (Decompose, Adapt, and Evolve)](https://openreview.net/forum?id=fbrmmokJiU), a new LLM-based evolutionary discovery framework augmented with adaptation and test-time training, is accepted to [**Math-AI**](https://mathai2025.github.io/) and [**AI4Science**](https://ai4sciencecommunity.github.io/neurips25) Workshops at **NeurIPS 2025**.
 - **[Sep 2025]**  Our paper [The Illusion of Thinking](https://arxiv.org/abs/2506.06941) is accepted to [**NeurIPS 2025**](https://neurips.cc/) main track! See you in San Diego!
 - **[June 2025]**  My Apple internship project [The Illusion of Thinking? Understanding Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/abs/2506.06941) is now on arxiv.
