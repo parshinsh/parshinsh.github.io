@@ -30,8 +30,8 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.project_code %} 
-      <a href="{{ link.project_code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Code</a>
+      {% if link.poster_presentation %} 
+      <a href="{{ link.poster_presentation }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster Presentation</a>
       {% endif %}
       {% if link.contribution %} 
       <a href="{{ link.contribution }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contribution</a>

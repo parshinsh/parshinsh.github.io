@@ -22,6 +22,7 @@ main:
     # code: https://github.com/deep-symbolic-mathematics/llm-srbench
     # data: https://huggingface.co/datasets/nnheui/llm-srbench
     image: ./assets/img/illusion.png
+    presentation: https://www.youtube.com/watch?v=qD0_aHQvdR8&t=3s
     HackerNews: https://news.ycombinator.com/item?id=44203562
     Forbes: https://forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/
     Mashable: https://mashable.com/article/apple-research-ai-reasoning-models-collapse-logic-puzzles
