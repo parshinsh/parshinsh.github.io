@@ -57,6 +57,7 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 
 ## News
+<div class="news-scrollable">
 - **[Dec 2025]**  Preprint of [SDE-Harness](https://arxiv.org/abs/2512.15567), our new large-scale study on evaluating LLMs in scientific discovery, is now on arxiv.
 - **[Dec 2025]**  Presenting our NeurIPS 2025 poster on [Women in AI Research Podcast](https://www.youtube.com/watch?v=qD0_aHQvdR8)!
 - **[Nov 2025]**  Our paper [DecAEvolve (Decompose, Adapt, and Evolve)](https://openreview.net/forum?id=fbrmmokJiU), a new LLM-based evolutionary discovery framework augmented with adaptation and test-time training, is accepted to [Math-AI](https://mathai2025.github.io/) and [AI4Science](https://ai4sciencecommunity.github.io/neurips25) Workshops at **NeurIPS 2025**.
@@ -74,6 +75,7 @@ If you're interested in my research on open-ended reasoning and discovery with L
 - **[Dec. 2023]** I will be at NeurIPS 2023 in New Orleans, presenting our [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) paper. See you in New Orleans! 
 - **[Sep. 2023]** Our paper [TPSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html) on mathematical discovery with language model + MCTS lookahead planning is accepted to [**NeurIPS 2023**](https://nips.cc/)!
 - **[Jul. 2023]** Our paper [PPOCoder](https://openreview.net/forum?id=0XBuaxqEcG) on reinforcement learning for program synthesis is accepted to [**TMLR**](https://jmlr.org/tmlr/)!
+</div>
 
 <!-- - **[Dec. 2022]** Our paper [GRAM-ODE](https://openreview.net/forum?id=Oq5XKRVYpQ) on forecasting with graph ODEs is accepted to [**TMLR**](https://jmlr.org/tmlr/)!  --> 
 

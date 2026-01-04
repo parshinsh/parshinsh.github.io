@@ -80,3 +80,43 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+.news-scrollable {
+    max-height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+.news-scrollable::-webkit-scrollbar {
+    width: 8px;
+}
+
+.news-scrollable::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.news-scrollable::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+.news-scrollable::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+@media (prefers-color-scheme: dark) {
+    .news-scrollable::-webkit-scrollbar-track {
+        background: #2a2a2a;
+    }
+
+    .news-scrollable::-webkit-scrollbar-thumb {
+        background: #666;
+    }
+
+    .news-scrollable::-webkit-scrollbar-thumb:hover {
+        background: #888;
+    }
+}
