@@ -56,7 +56,7 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 
 
-## News Highlights
+## News
 
 
 <div class="news-scrollable">
