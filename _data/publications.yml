@@ -8,7 +8,7 @@ main:
     # bibtex: ./assets/img/llmsr-bibtex.txt
     code: https://github.com/HowieHwong/sde-harness
     contribution: https://github.com/HowieHwong/sde-harness/tree/main/projects/llmsr    
-    image: ./assets/img/sde-hardness.png
+    image: ./assets/img/sde-harness.png
     # notes: Oral (top 1%)
   
   
