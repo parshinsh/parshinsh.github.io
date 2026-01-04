@@ -58,6 +58,7 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 ## News Highlights
 <div class="news-scrollable">
+
 - **[Dec 2025]**  Preprint of [SDE-Harness](https://arxiv.org/abs/2512.15567), our new large-scale study on evaluating LLMs in scientific discovery, is now on arxiv.
 - **[Dec 2025]**  Presenting our NeurIPS 2025 poster on [Women in AI Research Podcast](https://www.youtube.com/watch?v=qD0_aHQvdR8)!
 - **[Nov 2025]**  Our paper [DecAEvolve (Decompose, Adapt, and Evolve)](https://openreview.net/forum?id=fbrmmokJiU), a new LLM-based evolutionary discovery framework augmented with adaptation and test-time training, is accepted to [Math-AI](https://mathai2025.github.io/) and [AI4Science](https://ai4sciencecommunity.github.io/neurips25) Workshops at **NeurIPS 2025**.
