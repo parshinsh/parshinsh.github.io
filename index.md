@@ -62,7 +62,7 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 <div class="news-scrollable">
   <ul>
-    <li><strong>[Dec 2025]</strong> Preprint of <a href="https://arxiv.org/abs/2512.15567">SDE-Harness</a>, our new large-scale study on evaluating LLMs in scientific discovery, is now on arXiv.</li>
+    <li><strong>[Dec 2025]</strong> Preprint of <a href="https://arxiv.org/abs/2512.15567">SDE-Harness</a>, a new large-scale study on evaluating LLMs in scientific discovery, is now on arXiv.</li>
 
     <li><strong>[Dec 2025]</strong> Presenting our NeurIPS 2025 poster on <a href="https://www.youtube.com/watch?v=qD0_aHQvdR8">Women in AI Research Podcast</a>!</li>
 
