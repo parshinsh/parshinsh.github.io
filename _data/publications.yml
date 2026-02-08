@@ -1,7 +1,8 @@
 main:
   
   - title: "Evaluating Large Language Models in Scientific Discovery"
-    authors: Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu*, Thomas M. Pruyn*, Yue Huang*, Kehan Guo*, Xiuzhe Luo*, Yuanhao Qu*, Yi Qu*, Yinkai Wang*, Haorui Wang*, Jeff Guo*, Jingru Gan*, <strong>Parshin Shojaee*</strong>, ..., Huan Sun, Mohammad Moosavi, Chenru Duan.
+    # authors: Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu*, Thomas M. Pruyn*, Yue Huang*, Kehan Guo*, Xiuzhe Luo*, Yuanhao Qu*, Yi Qu*, Yinkai Wang*, Haorui Wang*, Jeff Guo*, Jingru Gan*, <strong>Parshin Shojaee*</strong>, ..., Huan Sun, Mohammad Moosavi, Chenru Duan.
+    authors: Zhangde Song, ..., <strong>Parshin Shojaee*</strong>, ..., Chenru Duan.
     conference_short: Preprint
     conference: arXiv preprint arXiv:2512.15567
     pdf: https://arxiv.org/abs/2512.15567
