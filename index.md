@@ -84,11 +84,11 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
     <li><strong>[Dec 2024]</strong> My Adobe internship project <a href="https://arxiv.org/abs/2501.14998">Federated RAG for Multi-Source QA</a> is now on arXiv.</li>
 
-    <li><strong>[Nov 2024]</strong> Our position paper on <a href="https://arxiv.org/abs/2412.11427">AI for Scientific Discovery</a> is accepted to <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a>!</li>
+    <li><strong>[Nov 2024]</strong> Our position paper on <a href="https://arxiv.org/abs/2412.11427">Challenges and Opportunities of AI for Scientific Discovery</a> is accepted to <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a>!</li>
 
     <li><strong>[May 2024]</strong> Excited to start my internship at <a href="https://www.adobe.com/home">Adobe</a> this summer!</li>
 
-    <li><strong>[Jan 2024]</strong> Our <a href="https://openreview.net/forum?id=KZSEgJGPxu">SNIP (Symbolic-Numeric Pretraining)</a> paper is accepted to <a href="https://iclr.cc/Conferences/2024"><strong>ICLR 2024</strong></a> as <strong style="color:red;">Spotlight</strong>!</li>
+    <li><strong>[Jan 2024]</strong> Our <a href="https://openreview.net/forum?id=KZSEgJGPxu">SNIP (Symbolic-Numeric Pretraining) for Mathematical Discovery</a> paper is accepted to <a href="https://iclr.cc/Conferences/2024"><strong>ICLR 2024</strong></a> as <strong style="color:red;">Spotlight</strong>!</li>
 
     <li><strong>[Dec 2023]</strong> I will be at NeurIPS 2023 in New Orleans, presenting our <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html">TPSR</a> paper.</li>
 
@@ -145,5 +145,8 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 
 ## A little more about me
-When I'm not into AI research, I enjoy exploring all kinds of music and playing [Tar](https://www.youtube.com/watch?v=XXYy_bmlUpg) and [Setar](https://www.youtube.com/watch?app=desktop&v=enL-YQKihvg) instruments (Persian guitars with their own unique twist). Recently, I'm also into hiking new trails, and trying to be good at gardening :D 
+
+I explain myself as a scientist who loves to think, read, garden, and play music ([Tar](https://www.youtube.com/watch?v=XXYy_bmlUpg) and [Setar](https://www.youtube.com/watch?app=desktop&v=enL-YQKihvg)) :) 
+
+I was given a chance of life once, I've been determined to make it count ever since
 
