@@ -146,7 +146,7 @@ If you're interested in my research on open-ended reasoning and discovery with L
 
 ## A little more about me
 
-Scientist who loves to think, read, garden, and play music ([Tar](https://www.youtube.com/watch?v=XXYy_bmlUpg) & [Setar](https://www.youtube.com/watch?app=desktop&v=enL-YQKihvg)) :) 
+Scientist who loves to think, read, garden, and explore music ([Tar](https://www.youtube.com/watch?v=XXYy_bmlUpg) & [Setar](https://www.youtube.com/watch?app=desktop&v=enL-YQKihvg)) :) 
 
 I was given a chance of life once, I've been determined to make it count ever since
 
