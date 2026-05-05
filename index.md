@@ -18,7 +18,7 @@ Along the way, I’ve also had the opportunity to collaborate with brilliant res
 
 <!-- I’m grateful to the brilliant researchers and collaborators  -->
 
-Before starting my PhD, I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
+Before starting my PhD, I completed my MS in Optimization at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
 If you're interested in my research on open-ended reasoning and discovery with LLMs, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [parshinshojaee@vt.edu](mailto:parshinshojaee@vt.edu)
 
